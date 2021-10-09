@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## Daiguoxi ✈️ ![](https://views.whatilearened.today/views/github/daiguoxi/daiguoxi.svg)
 [![版本](https://img.shields.io/badge/版本-2.0.2-green)](https://github.com/Passkou/bilibili_api/tree/master/CHANGELOG.md) [![API数量](https://img.shields.io/badge/API数量-100+-blue)](https://github.com/Passkou/bilibili_api/tree/master/bilibili_api/data/api.json) [![STARS](https://img.shields.io/github/stars/Passkou/bilibili_api?color=yellow&label=Github%20Stars)](https://github.com/Passkou/bilibili_api/stargazers) [![LICENSE](https://img.shields.io/badge/LICENSE-GPL%20v3-red)](https://github.com/Passkou/bilibili_api/tree/master/LICENSE.md) ![Python](https://img.shields.io/badge/Python-3.x-blue) [![](https://img.shields.io/badge/这个标签太好玩了-.py-orange)](https://shields.io/)
+</br>
 欢迎来到我的主页！ Welcome to my GitHub profile!
 
 
