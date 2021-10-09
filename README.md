@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-## Daiguoxi ✈️:cn:![](https://views.whatilearened.today/views/github/daiguoxi/daiguoxi.svg)
+## Daiguoxi ✈️![](https://views.whatilearened.today/views/github/daiguoxi/daiguoxi.svg)
 [![B站](https://img.shields.io/badge/B站-DGX杂学-green)](https://space.bilibili.com/449154488) [![抖音](https://img.shields.io/badge/抖音-DG息-blue)](https://v.douyin.com/dGAUBc3/)  [![CSDN](https://img.shields.io/badge/CSDN-DG息-red)](https://blog.csdn.net/dgxl22) [![博客园](https://img.shields.io/badge/博客园-DGX杂学-blue)](https://www.cnblogs.com/yeu4h3uh2/) 
 </br>
 欢迎来到我的主页！ Welcome to my GitHub profile!
