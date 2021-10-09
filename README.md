@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Daiguoxi ✈️ ![](https://views.whatilearened.today/views/github/daiguoxi/daiguoxi.svg)
-[![版本](https://img.shields.io/badge/B站-bilibili-green)](https://space.bilibili.com/449154488) [![API数量](https://img.shields.io/badge/API数量-100+-blue)](https://github.com/Passkou/bilibili_api/tree/master/bilibili_api/data/api.json) [![STARS](https://img.shields.io/github/stars/Passkou/bilibili_api?color=yellow&label=Github%20Stars)](https://github.com/Passkou/bilibili_api/stargazers) [![LICENSE](https://img.shields.io/badge/LICENSE-GPL%20v3-red)](https://github.com/Passkou/bilibili_api/tree/master/LICENSE.md) ![Python](https://img.shields.io/badge/Python-3.x-blue) [![](https://img.shields.io/badge/这个标签太好玩了-.py-orange)](https://shields.io/)
+[![B站](https://img.shields.io/badge/B站-DGX杂学-green)](https://space.bilibili.com/449154488) [![抖音](https://img.shields.io/badge/抖音-DG息-blue)](https://v.douyin.com/dGAUBc3/) [![STARS](https://img.shields.io/github/stars/daiguoxi/bilibili_api?color=yellow&label=Github%20Stars)](https://github.com/daiguoxi/bilibili_api/stargazers) [![CSDN](https://img.shields.io/badge/CSDN-DG息-red)](https://blog.csdn.net/dgxl22) [![博客园](https://img.shields.io/badge/博客园-DGX杂学-blue)](https://www.cnblogs.com/yeu4h3uh2/) 
 </br>
 欢迎来到我的主页！ Welcome to my GitHub profile!
 
