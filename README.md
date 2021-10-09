@@ -13,9 +13,17 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-### daiguoxi ✈️ ![](https://views.whatilearened.today/views/github/daiguoxi/daiguoxi.svg)
+# Daiguoxi ✈️ ![](https://views.whatilearened.today/views/github/daiguoxi/daiguoxi.svg)
 
-欢迎来到我的主页！
+欢迎来到我的主页！ Welcome to my GitHub profile!
+
+[![版本](https://img.shields.io/badge/版本-2.0.2-green)](https://github.com/Passkou/bilibili_api/tree/master/CHANGELOG.md) [![API数量](https://img.shields.io/badge/API数量-100+-blue)](https://github.com/Passkou/bilibili_api/tree/master/bilibili_api/data/api.json) [![STARS](https://img.shields.io/github/stars/Passkou/bilibili_api?color=yellow&label=Github%20Stars)](https://github.com/Passkou/bilibili_api/stargazers) [![LICENSE](https://img.shields.io/badge/LICENSE-GPL%20v3-red)](https://github.com/Passkou/bilibili_api/tree/master/LICENSE.md) ![Python](https://img.shields.io/badge/Python-3.x-blue) [![](https://img.shields.io/badge/这个标签太好玩了-.py-orange)](https://shields.io/)
+
+**项目官网**: [bilibili_api 官网][homepage]
+
+**开发文档**: [bilibili_api 开发文档][docs]
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=daiguoxi&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daiguoxi&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
